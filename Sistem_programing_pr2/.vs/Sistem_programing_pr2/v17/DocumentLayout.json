@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|c:\\users\\denjl\\source\\repos\\sistem_programing_pr2\\sistem_programing_pr2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|solutionrelative:sistem_programing_pr2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\sistem_programing_pr2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|solutionrelative:sistem_programing_pr2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AF24A2-ABF8-4760-BAC5-E66FB3E4DD53}|..\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\denjl\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AF24A2-ABF8-4760-BAC5-E66FB3E4DD53}|..\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\denjl\\source\\repos\\consoleapp3\\consoleapp3\\consoleapp3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\sistem_programing_pr2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|solutionrelative:sistem_programing_pr2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\sistem_programing_pr2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5D79D831-DFFD-4196-BD17-EAFE560B1451}|Sistem_programing_pr2\\Sistem_programing_pr2.csproj|solutionrelative:sistem_programing_pr2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp3",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+              "RelativeToolTip": "..\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T18:20:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:59:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistem_programing_pr2\\Form1.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.cs",
+              "RelativeToolTip": "Sistem_programing_pr2\\Form1.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAswGUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:07:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Sistem_programing_pr2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.Designer.cs",
+              "RelativeToolTip": "Sistem_programing_pr2\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T01:30:56.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.resx",
+              "RelativeDocumentMoniker": "Sistem_programing_pr2\\Form1.resx",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.resx",
+              "RelativeToolTip": "Sistem_programing_pr2\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-18T01:30:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.cs",
+              "RelativeDocumentMoniker": "Sistem_programing_pr2\\Form1.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\Sistem_programing_pr2\\Sistem_programing_pr2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Sistem_programing_pr2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:43:56.063Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

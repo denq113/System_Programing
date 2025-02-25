@@ -1,0 +1,13 @@
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\bin\Debug\Sistem_programing_pr2.exe.config
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\bin\Debug\Sistem_programing_pr2.exe
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\bin\Debug\Sistem_programing_pr2.pdb
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.Form1.resources
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.Properties.Resources.resources
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.exe
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_programing_pr2.pdb
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\bin\Debug\System.CodeDom.dll
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\bin\Debug\System.CodeDom.xml
+C:\Users\denjl\source\repos\Sistem_programing_pr2\Sistem_programing_pr2\obj\Debug\Sistem_p.B1240B1F.Up2Date
